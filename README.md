@@ -16,7 +16,6 @@ The application reads MP3 tags and displays important song details such as:
 * 📅 Year
 * 📝 Comments
 * 🎼 Genre
-* 🔢 Track Number
 
 ---
 
@@ -105,4 +104,4 @@ Genre   : Pop
 ## 👨‍💻 Author
 
 Sudarshan V
-Embedded Systems & Linux Enthusiast
+Embedded Systems
